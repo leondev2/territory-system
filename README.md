@@ -1,4 +1,4 @@
-# Territory War System
+# Territory System
 
 A FiveM resource that adds territory control gameplay for RP servers.
 
