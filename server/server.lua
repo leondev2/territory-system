@@ -1,4 +1,3 @@
-
 local json = require "json"  
 local TERRITORIJE_FILE = "teritorija.json"
 local Territorije = {}
