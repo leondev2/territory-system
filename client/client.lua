@@ -1,4 +1,3 @@
-
 local ZauzimanjeAktivno = false
 local TrenutnaTeritorija = nil
 local ZauzimanjeVrijeme = 0
